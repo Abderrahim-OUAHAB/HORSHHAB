@@ -1,2 +1,2 @@
 ![demo](img.png)
-![demo](demo.mov)
+[demo](demo.mov)
